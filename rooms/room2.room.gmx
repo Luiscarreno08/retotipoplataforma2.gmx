@@ -221,6 +221,7 @@
     <instance objName="obj_enemigonocae" x="544" y="288" name="inst_CC3FE00B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_enemigonocae" x="320" y="448" name="inst_933D216A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_enemigonocae" x="640" y="448" name="inst_FCBC99DA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="object12" x="832" y="544" name="inst_655A62E2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
